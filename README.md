@@ -5,7 +5,7 @@
 ## Getting Started:
 To use this implementation, you'll need Python installed on your machine.
 1. Clone the repository:
-git clone https://github.com/yourusername/astar-search.git
+git clone https://github.com/anjupy/astar-search.git
 2. Navigate to the project directory:
 cd astar-search
 3. Run the A* algorithm:
